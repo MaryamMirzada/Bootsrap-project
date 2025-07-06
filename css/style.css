@@ -1,0 +1,19 @@
+
+input[type="search"]:hover{
+    border: 2px solid #ADEED9;
+    
+}
+input[type="search"]{
+    box-shadow: none;
+}
+
+body{
+    box-sizing: border-box;
+
+}
+.btn:hover{
+    background-color: #ADEED9;
+}
+li{
+    list-style: none;
+}
